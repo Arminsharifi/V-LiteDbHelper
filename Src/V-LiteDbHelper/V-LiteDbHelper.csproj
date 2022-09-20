@@ -5,4 +5,8 @@
     <RootNamespace>V_LiteDbHelper</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="LiteDb" Version="5.0.12" />
+  </ItemGroup>
+
 </Project>
